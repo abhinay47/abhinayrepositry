@@ -1,0 +1,10 @@
+nodejs
+ui(bootstrap)
+angular -- client side implementation
+express -- server side implementation
+nodejs --  google v8 engine (production)
+
+(MEAN)
+nodejs(javascript----server
+
+google v8 engine
